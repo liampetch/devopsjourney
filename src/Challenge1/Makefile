@@ -5,3 +5,6 @@ build:
 
 run:
 	docker run -it -p 8080:80 liampetch/devopsjourneychallenge1
+
+push:
+	docker push liampetch/devopsjourneychallenge1
